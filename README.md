@@ -1,27 +1,30 @@
-# DlMatSelectMatTree
+# Angular Material Category Tree Dropdown
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+A custom Angular component that integrates a Material Tree with checkboxes, allowing users to select categories from a hierarchical tree structure.
 
-## Development server
+## Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Inputs](#inputs)
+- [Customization](#customization)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Code scaffolding
+## Demo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+*Include a screenshot or gif of the component in action if possible.*
 
-## Build
+## Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular Material Tree integrated with checkboxes.
+- Supports nested categories with expandable nodes.
+- Allows multi-selection of categories.
+- Customizable dropdown UI.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   
